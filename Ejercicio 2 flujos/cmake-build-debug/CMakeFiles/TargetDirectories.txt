@@ -1,0 +1,3 @@
+C:/Users/suren/CLionProjects/Ejercicio 2 flujos/cmake-build-debug/CMakeFiles/Ejercicio_2_flujos.dir
+C:/Users/suren/CLionProjects/Ejercicio 2 flujos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/suren/CLionProjects/Ejercicio 2 flujos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
